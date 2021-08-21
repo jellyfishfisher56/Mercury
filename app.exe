@@ -1,0 +1,7 @@
+P0009
+;BLINKER 700RectLineBlack                                                             //Blinker.
+;sc text var st on text call KEYBOARD
+KEY 099OP000
+P0009 SC CALL 900000K IN P000 ON PLAT VAR
+PRINT VAR CUI XCS
+pr ty as c v
