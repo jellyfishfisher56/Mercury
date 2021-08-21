@@ -1,0 +1,8 @@
+P009 F000E                                         C4000
+;int 65
+;int 65 43
+;sc tr -0 n-f
+CMD.EXE; 4P00
+P00005 SCCC33 ABCDEFGH
+;p
+int
